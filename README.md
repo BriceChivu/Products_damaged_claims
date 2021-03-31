@@ -1,4 +1,4 @@
-# Exploratory Data Analysis on damaged products claims
+# Exploratory Data Analysis on damaged products claims 
 
 ### 1. Introduction
 With millions of units shipped every year, handling issues leading to product damages are inevitable. Can we get insights from past claims to better understand the root causes of those issues? <br/> 
